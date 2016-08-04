@@ -1,7 +1,7 @@
 kolla/
 current
 KollaG5k_*/
-roles/registry/files/ceph
+roles/registry/files/.ceph
 
 # Vim backup files
 .*.swp
